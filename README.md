@@ -6,7 +6,7 @@
 ## Description
 The Professional README Generator is a command-line application that allows developers to quickly and easily create a high-quality README file for their projects. By answering a series of prompts, users can save time and ensure their documentation is professional and complete.
 
-##Demo
+## Demo
 [Click here to watch the demo video](https://drive.google.com/file/d/1UsF2UeIvebJM7Me1BBot9qzakjny6CXU/view?usp=drive_link)
 
 ## Table of Contents
