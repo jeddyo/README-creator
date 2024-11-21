@@ -43,5 +43,5 @@ Follow the prompts to ensure all sections of the README are generated as expecte
 
 ## Questions
 If you have any questions about this project, feel free to reach out:
-- GitHub: [JohnGarcia](https://github.com/JohnGarcia)
-- Email: [johngarcia@example.com](mailto:johngarcia@example.com)
+- GitHub: [jeddyo](https://github.com/jeddyo)
+- Email: [johngarcia.edward@gmail.com](mailto:johngarcia.edward@gmail.com)
